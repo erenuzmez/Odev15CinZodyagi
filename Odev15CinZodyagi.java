@@ -45,8 +45,8 @@ public class Odev15CinZodyagi {
                 burc = "Koyun";
                 break;
             default:
-                System.out.println("Hatalı giriş yaptınız!");
+                System.out.println("Hatalı giriş yaptınız.Tekrar deneyiniz.");
         }
-        System.out.println("Burcunuz:"+burc);
+        System.out.println("Çin Zodyağı Burcunuz:"+burc);
     }
 }
